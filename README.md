@@ -5,7 +5,7 @@
 https://gvalencia-hwr2f8swk-gus-projects-b233995a.vercel.app
 
 # 👨‍💻 Gustavo Jurado
-## Desarrollador en formación | Estudiante de la Universidad del Valle | Apasionado por la tecnología, el emprendimiento y la libertad financiera.:D
+## Desarrollador en formación | Estudiante de la Universidad del Valle | Apasionado por la tecnología, el emprendimiento y la libertad financiera.
 
 Soy un estudiante universitario colombiano con una fuerte orientación hacia el **desarrollo de software**, el aprendizaje continuo y la **creación de proyectos** que generen valor real. Me interesa construir soluciones tecnológicas, aprender nuevas herramientas y explorar caminos que me acerquen a la independencia profesional y financiera.
 
