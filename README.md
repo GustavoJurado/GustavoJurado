@@ -1,11 +1,22 @@
-# Gustavo Valencia
-## I am passionate about continuous learning and enjoy exploring new technologies. 
-Currently, I am dedicated to **studying web development** with the goal of working on projects or collaborating in the industry. I consider myself a sociable, kind, responsible, and dynamic person, with aspirations and goals focused on achieving objectives. I learn quickly and strive to be punctual and honest in everything I do. **I am excited to continue growing in the world of web development 🤍!**
+> http://localhost:8080/gvalencia/index.html
+<!-- Comando para poder crear un servidor local -->
+> npx @11ty/eleventy --serve
+<!-- probando un servidor con vercel  -->
+https://gvalencia-hwr2f8swk-gus-projects-b233995a.vercel.app
 
-<!-- # Gustavo Valencia 
-## Soy un apasionado del aprendizaje constante y me encanta explorar nuevas tecnologías. 
-Actualmente, me dedico a **estudiar el desarrollo web** con el objetivo de **trabajar** en proyectos o colaborar en la industria. Me considero una persona sociable, amable, responsable y dinámica, con aspiraciones y metas enfocadas en el logro de objetivos. Aprendo rápidamente y me esfuerzo por cumplir con puntualidad y honestidad en todo lo que hago. **¡¡Estoy entusiasmado por seguir creciendo en el mundo del desarrollo web🤍!!** -->
+# 👨‍💻 Gustavo Jurado
+## Desarrollador en formación | Estudiante de la Universidad del Valle | Apasionado por la tecnología, el emprendimiento y la libertad financiera.:D
 
+Soy un estudiante universitario colombiano con una fuerte orientación hacia el **desarrollo de software**, el aprendizaje continuo y la **creación de proyectos** que generen valor real. Me interesa construir soluciones tecnológicas, aprender nuevas herramientas y explorar caminos que me acerquen a la independencia profesional y financiera.
+
+- 🎓 Estudiante en la Universidad del Valle
+
+- 🧩 Interesado en programación, negocios digitales y automatización
+
+- 🚀 Mi meta: trabajar remoto, viajar por Latinoamérica y construir productos propios
+
+- 💡 En constante aprendizaje: tanto en código como en vida
+  
 # Estos son los 5 comandos más usados
 |Comando | Descripción |
 |--------| ------------|
