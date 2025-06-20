@@ -20,16 +20,16 @@ Soy un estudiante universitario colombiano con una fuerte orientación hacia el 
 # Estos son los 5 comandos más usados
 |Comando | Descripción |
 |--------| ------------|
-|31 ls |Esto es una descripción|
-|25 cd |Esto es una descripción|
-|10 cal |Esto es una descripción|
-|8 pwd |Esto es una descripción|
-|6 clear |Esto es una descripción|
-|5 echo |Esto es una descripción|
-|4 sudo |Esto es una descripción|
-|4 git |Esto es una descripción|
-|3 whoami |Esto es una descripción|
-|3 uptime  |Esto es una descripción|
+|31 ls |lista los archivos y carpetas del directorio actual|
+|25 cd |cambia de directorio|
+|10 cal |muestra el calendario del mes actual|
+|8 pwd | muestra la ruta del directorio actual|
+|6 clear |limpia la terminal|
+|5 echo | imprime texto en la terminal|
+|4 sudo |ejecuta comandos con permisos de superusuario|
+|4 git | herramienta de control de versiones|
+|3 whoami |muestra el usuario actual|
+|3 uptime  |muestra cuánto tiempo lleva encendido el sistema|
 # Estos son mis alias más usados
  
  ```bash
