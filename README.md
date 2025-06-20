@@ -18,18 +18,18 @@ Soy un estudiante universitario colombiano con una fuerte orientación hacia el 
 - 💡 En constante aprendizaje: tanto en código como en vida
   
 # Estos son los 5 comandos más usados
-|Comando | Descripción |
-|--------| ------------|
-|31 ls |lista los archivos y carpetas del directorio actual|
-|25 cd |cambia de directorio|
-|10 cal |muestra el calendario del mes actual|
-|8 pwd | muestra la ruta del directorio actual|
-|6 clear |limpia la terminal|
-|5 echo | imprime texto en la terminal|
-|4 sudo |ejecuta comandos con permisos de superusuario|
-|4 git | herramienta de control de versiones|
-|3 whoami |muestra el usuario actual|
-|3 uptime  |muestra cuánto tiempo lleva encendido el sistema|
+| Comando | Descripción                                         |
+|---------| ----------------------------------------------------|
+|31 ls    | lista los archivos y carpetas del directorio actual |
+|25 cd    | cambia de directorio                                |
+|10 cal   | muestra el calendario del mes actual                |
+|8 pwd    | muestra la ruta del directorio actual               |
+|6 clear  | limpia la terminal                                  |
+|5 echo   | imprime texto en la terminal                        |
+|4 sudo   | ejecuta comandos con permisos de superusuario       |
+|4 git    | herramienta de control de versiones                 |
+|3 whoami | muestra el usuario actual                           |
+|3 uptime | muestra cuánto tiempo lleva encendido el sistema    |
 
 # Este es un alias para ver tu top 10 de comandos mas usados
 
