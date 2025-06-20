@@ -30,8 +30,9 @@ Soy un estudiante universitario colombiano con una fuerte orientación hacia el 
 |4 git | herramienta de control de versiones|
 |3 whoami |muestra el usuario actual|
 |3 uptime  |muestra cuánto tiempo lleva encendido el sistema|
-# Estos son mis alias más usados
- 
+
+# Este es un alias para ver tu top 10 de comandos mas usados
+
  ```bash
  alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c | sort -nr | head -n 10'
  ```
